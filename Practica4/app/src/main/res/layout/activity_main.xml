@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/crema"
+    android:background="@color/cream"
     tools:context=".MainActivity">
 
     <ImageView
@@ -44,7 +44,7 @@ android:textSize="24sp"
     <Button
         android:id="@+id/btn_get_started"
         android:layout_width="219dp"
-        android:layout_height="40dp"
+        android:layout_height="48dp"
         android:text="@string/button_start"
         android:background="@drawable/round_button"
         android:textColor="@color/white"

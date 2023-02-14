@@ -5,6 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
+    android:background="@color/cream"
     tools:context=".RegisterActivity">
 
     <ImageView
@@ -21,6 +22,7 @@
         android:layout_height="48dp"
         android:layout_marginTop="@dimen/input_margin"
         android:hint="@string/name"
+        android:textColor="@color/black"
         android:inputType="text" />
 
     <EditText
@@ -29,6 +31,7 @@
         android:layout_height="48dp"
         android:layout_marginTop="@dimen/input_margin"
         android:hint="@string/last_name"
+        android:textColor="@color/black"
         android:inputType="text" />
 
     <EditText
@@ -36,6 +39,7 @@
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:layout_marginTop="@dimen/input_margin"
+        android:textColor="@color/black"
         android:hint="@string/e_mail"
         android:inputType="textEmailAddress" />
 
@@ -44,6 +48,7 @@
         android:layout_width="match_parent"
         android:layout_height="48dp"
         android:layout_marginTop="@dimen/input_margin"
+        android:textColor="@color/black"
         android:hint="@string/password"
         android:inputType="textPassword" />
 
@@ -60,7 +65,7 @@
         android:layout_height="48dp"
         android:layout_gravity="center"
         android:layout_marginTop="30dp"
-        android:background="@drawable/round_button"
+        android:backgroundTint="@color/rojo"
         android:text="@string/sign_in"
         android:textColor="@color/dusty_white" />
 

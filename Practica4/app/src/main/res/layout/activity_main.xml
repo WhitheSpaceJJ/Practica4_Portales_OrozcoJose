@@ -43,7 +43,7 @@
         android:layout_width="219dp"
         android:layout_height="48dp"
         android:text="@string/button_start"
-        android:backgroundTint="@color/rojo"
+        android:background="@drawable/round_button"
         android:textColor="@color/white"
         android:layout_gravity="center"
         android:layout_marginTop="5dp"

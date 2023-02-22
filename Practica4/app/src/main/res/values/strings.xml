@@ -11,9 +11,9 @@
     <string name="sign_in">Sign in</string>
     <string name="our_menu">Our Menu</string>
     <string name="antojitos">Antojitos</string>
-    <string name="espacialidades">EsPe</string>
-    <string name="combination">Combinations</string>
+    <string name="espacialidades">Especialidades</string>
+    <string name="combination">Combinaciones</string>
     <string name="tortas">Tortas</string>
     <string name="sopas">Sopas</string>
-    <string name="drinks">Drinks</string>
+    <string name="drinks">Bebidas</string>
 </resources>
